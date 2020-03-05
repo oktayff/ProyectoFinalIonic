@@ -1,0 +1,8 @@
+{
+  "appId": "com.example.trackingapp",
+  "appName": "trackingApp",
+  "bundledWebRuntime": false,
+  "npmClient": "npm",
+  "webDir": "www",
+  "cordova": {}
+}
